@@ -1,9 +1,18 @@
+html,
+body,
 #app {
+    height: 100vh; /*100% da visualização da altura*/
+    margin: 0;
+}
+
+#app {
+    display: flex;
+    flex-direction: column-reverse; /*direção de coluna*/
 }
 
 .box {
-    width: 60px;
-    height: 60px;
-    background: red;
-    margin: 5px;
+    width: 60px; /*largura*/
+    height: 60px; /*altura*/
+    background: red; /*cor de fundo*/
+    margin: 5px; /* margem/espaçamento*/
 }
