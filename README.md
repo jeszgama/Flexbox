@@ -1,10 +1,10 @@
-### Flexbox
+### **Flexbox**
 
 -- Estiliza aplicações, usado para responsividades
 
 -- display flex alinha os itens horizontalmente em forma de row
 
-flex-direction:
+**flex-direction:**
 
 - row: linha
 
@@ -12,7 +12,7 @@ flex-direction:
 
 - reverse: muda a direção(direita->esquerda) (baixo->cima)
 
-align-items(vertical):
+**align-items(vertical):**
 
 - flex-start: inicio
 
@@ -20,21 +20,32 @@ align-items(vertical):
 
 - center: centro
 
-justify-content(horizontal):
+**justify-content(horizontal):**
 
 - space-between: espaço igual entre os elementos
 
 - space-around: espaço entre os elementos com espaços no inicio e fim
 
-flex-grow:
+**flex-grow:**
 
 - aumenta conforme a dimensão da tela
 
-flex-shrink:
+**flex-shrink:**
 
 - diminui conforme a dimensão da tela
 
-flex:
+**flex:**
 
 - primeiro atributo corresponde ao grow e o segundo ao shrink
 
+**flex-wrap:**
+
+- quebra de linhas
+
+- wrap: possui quebra de linhas
+
+- no-wrap: não quebra linhas
+
+**align-content:**
+
+- é como se os componentes tivessem uma box em volta deles, por meio dessa propriedade se pode escolher como os componentes vão se comportar
