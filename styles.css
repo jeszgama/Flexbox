@@ -8,6 +8,8 @@ body,
 #app {
     display: flex;
     flex-direction: column-reverse; /*direção de coluna*/
+    align-items: flex-start; /*alinhamento vertical*/
+    justify-content: flex-start; /*alinhamento horizontal*/
 }
 
 .box {
