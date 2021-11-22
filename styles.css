@@ -1,29 +1,12 @@
-html,
-body,
-#app {
-    height: 100vh; /*100% da visualização da altura*/
+* {
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-#app {
-    display: flex;
-}
-
-.box {
-    width: 60px; /*largura*/
-    height: 60px; /*altura*/
-    background: red; /*cor de fundo*/
-    margin: 5px; /* margem/espaçamento*/
-}
-
-.red {
-    background: red;
-}
-
-.green {
-    background: green;
-}
-
-.blue {
-    background: blue;
+body {
+    background: #e6ecf0;
+    font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
 }
