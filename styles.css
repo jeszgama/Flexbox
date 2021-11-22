@@ -7,9 +7,6 @@ body,
 
 #app {
     display: flex;
-    flex-direction: column-reverse; /*direção de coluna*/
-    align-items: flex-start; /*alinhamento vertical*/
-    justify-content: flex-start; /*alinhamento horizontal*/
 }
 
 .box {
@@ -17,4 +14,16 @@ body,
     height: 60px; /*altura*/
     background: red; /*cor de fundo*/
     margin: 5px; /* margem/espaçamento*/
+}
+
+.red {
+    background: red;
+}
+
+.green {
+    background: green;
+}
+
+.blue {
+    background: blue;
 }

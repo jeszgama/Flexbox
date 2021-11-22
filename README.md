@@ -6,6 +6,8 @@
 
 **flex-direction:**
 
+- direção da coluna 
+
 - row: linha
 
 - column: coluna
@@ -49,3 +51,7 @@
 **align-content:**
 
 - é como se os componentes tivessem uma box em volta deles, por meio dessa propriedade se pode escolher como os componentes vão se comportar
+
+**order:**
+
+- para saber a ordem de cada componente
