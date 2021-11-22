@@ -25,3 +25,16 @@ justify-content(horizontal):
 - space-between: espaço igual entre os elementos
 
 - space-around: espaço entre os elementos com espaços no inicio e fim
+
+flex-grow:
+
+- aumenta conforme a dimensão da tela
+
+flex-shrink:
+
+- diminui conforme a dimensão da tela
+
+flex:
+
+- primeiro atributo corresponde ao grow e o segundo ao shrink
+
