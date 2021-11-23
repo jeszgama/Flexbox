@@ -65,3 +65,19 @@
 -- Quando possui 4 valores:
 
 - começa de cima e faz o sentido horário
+
+Quando for codificar opte por criar a estrutura primeiro, só depois faça a estilização
+
+**box-shadow:**
+
+- primeiro valor: quantos px pra direita a box-shadow vai se posicionar
+
+- segundo valor: quantos px no sentido vertical a box-shadow vai se posicionar
+
+- terceiro valor: quantos px ela vai se dissipar para a tela
+
+- quarto valor: cor
+
+**::after:**
+
+- precisa obrigatoriamente ter um content, posso declarar ele sendo nulo `content:'';`
