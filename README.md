@@ -55,3 +55,13 @@
 **order:**
 
 - para saber a ordem de cada componente
+
+**padding:**
+
+- primeiro valor: vertical
+
+- segundo valor: horizontal
+
+-- Quando possui 4 valores:
+
+- começa de cima e faz o sentido horário
