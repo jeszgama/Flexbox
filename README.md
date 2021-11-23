@@ -62,9 +62,23 @@
 
 **padding:**
 
+-- Quando possui um valor:
+
+- atribui para todos os lado
+
+-- Quando possui dois valor:
+
 - primeiro valor: vertical
 
 - segundo valor: horizontal
+
+-- Quando possui 3 valores:
+
+- primeiro valor: vertical start
+
+- segundo valor: vertical end
+
+- terceiro valor: horizontal
 
 -- Quando possui 4 valores:
 
