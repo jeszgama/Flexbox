@@ -38,7 +38,11 @@
 
 **flex:**
 
-- primeiro atributo corresponde ao grow e o segundo ao shrink
+- primeiro atributo corresponde ao grow
+
+- segundo atributo ao shrink
+
+- terceiro atributo ao basis que atribui um valor padrão do elemento
 
 **flex-wrap:**
 
@@ -81,3 +85,7 @@ Quando for codificar opte por criar a estrutura primeiro, só depois faça a est
 **::after:**
 
 - precisa obrigatoriamente ter um content, posso declarar ele sendo nulo `content:'';`
+
+**flex-basis:**
+
+- tamanho padrão do elemento
