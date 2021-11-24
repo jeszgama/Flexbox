@@ -103,3 +103,7 @@ Quando for codificar opte por criar a estrutura primeiro, só depois faça a est
 **flex-basis:**
 
 - tamanho padrão do elemento
+
+**:first-child:**
+
+- se tiver 5 tags img a estilização só irá ser atribuida no primeiro filho, ou seja, na primeira tag
