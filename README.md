@@ -1,3 +1,13 @@
+# Aplicação:
+
+[Twitter](taret="https://jessica-twitter-clone.netlify.app/") 
+
+![Print1](./images/print1.png)
+
+![Print2](./images/print2.png)
+
+![Print3](./images/print3.png)
+
 ### **Flexbox**
 
 -- Estiliza aplicações, usado para responsividades
