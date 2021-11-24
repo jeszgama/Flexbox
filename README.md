@@ -1,6 +1,6 @@
 # Aplicação:
 
-[Twitter](taret="https://jessica-twitter-clone.netlify.app/") 
+<a href="https://jessica-twitter-clone.netlify.app/" target="_blank">Clique aqui para abrir a aplicação do Twitter</a>
 
 ![Print1](./images/print1.png)
 
