@@ -2,11 +2,18 @@
 
 <a href="https://jessica-twitter-clone.netlify.app" target="_blank" >Clique aqui para abrir a aplicação do Twitter</a>
 
-![Print1](./images/print1.png)
+### Linguagens utilizadas neste projeto:
+<div>
+  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
+<br>
 
-![Print2](./images/print2.png)
+### Imagens da página:
 
-![Print3](./images/print3.png)
+![Print1](./public/print1.png)
+
+<hr>
 
 ### **Flexbox**
 
