@@ -11,7 +11,7 @@
 
 ### Imagens da página:
 
-![Print1](./public/print1.png)
+![Print1](./images/print2.png)
 
 <hr>
 
